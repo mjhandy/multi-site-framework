@@ -1,7 +1,7 @@
-// Bootstrap
-@import './global/bootstrap/scss/bootstrap';
 // Bootstrap Overrides
 @import './global/bootstrapOverrides';
+// Bootstrap
+@import './global/bootstrap/scss/bootstrap';
 // global items
 @import './global/scss/mixins';
 @import './global/scss/helperClasses';
